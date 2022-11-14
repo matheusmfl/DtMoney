@@ -1,0 +1,12 @@
+{
+    "transactions" : [
+        {
+            "id" : 1,
+            "description" : "desenvolvimento Web",
+            "type": "outcome",
+            "category": "Venda",
+            "price": 14000,
+            "createdAt": "2022-10-10 00:00:00"
+        }
+    ]
+}
